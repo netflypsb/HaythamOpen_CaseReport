@@ -1,0 +1,17 @@
+python-dotenv
+xmltodict
+crewai==0.22.5
+crewai[tools]
+langchain
+langchain-community
+langchain-core
+langchainhub
+google-search-results
+duckduckgo-search
+semanticscholar
+langchain-openai
+streamlit
+biopython
+beautifulsoup4
+lxml
+scipy
